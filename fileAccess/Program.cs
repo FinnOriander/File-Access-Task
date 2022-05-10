@@ -22,9 +22,32 @@ namespace fileAccess
             Console.WriteLine(menuItem[4]);
             Console.WriteLine(menuItem[5]);
 
- 
+            string Selection = Console.ReadLine();
+            
+            if(Selection == "1"){
+                AddnewItem();
+            }
 
-        
+            if(Selection == "2"){
+                ListAllItems();
+            }
+
+             if(Selection == "3"){
+                ShowTotalCost();
+            }
+
+             if(Selection == "4"){
+                ClearList();
+            }
+
+             if(Selection == "5"){
+                SaveList();
+            }
+
+             if(Selection == "6"){
+                Console.WriteLine("Thanks for using the Shopping List App");
+                
+            }
 
 
 
