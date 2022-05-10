@@ -4,6 +4,7 @@ namespace fileAccess
 {
     class Program
     {
+        public static 
         static void Main(string[] args)
         {
             string[] menuItem = new string[6];
@@ -25,7 +26,7 @@ namespace fileAccess
             string Selection = Console.ReadLine();
             
             if(Selection == "1"){
-                AddnewItem();
+                AddNewItem();
             }
 
             if(Selection == "2"){
@@ -47,6 +48,10 @@ namespace fileAccess
              if(Selection == "6"){
                 Console.WriteLine("Thanks for using the Shopping List App");
                 
+            }
+
+            static void AddNewItem{
+
             }
 
 
