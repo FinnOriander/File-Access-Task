@@ -1,0 +1,16 @@
+C:\Users\102714329\OneDrive - Swinburne University\Programming\File Access Task\fileAccess\obj\Debug\net5.0\fileAccess.csproj.AssemblyReference.cache
+C:\Users\102714329\OneDrive - Swinburne University\Programming\File Access Task\fileAccess\obj\Debug\net5.0\fileAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\102714329\OneDrive - Swinburne University\Programming\File Access Task\fileAccess\obj\Debug\net5.0\fileAccess.AssemblyInfoInputs.cache
+C:\Users\102714329\OneDrive - Swinburne University\Programming\File Access Task\fileAccess\obj\Debug\net5.0\fileAccess.AssemblyInfo.cs
+C:\Users\102714329\OneDrive - Swinburne University\Programming\File Access Task\fileAccess\obj\Debug\net5.0\fileAccess.csproj.CoreCompileInputs.cache
+C:\Users\102714329\OneDrive - Swinburne University\Programming\File Access Task\fileAccess\bin\Debug\net5.0\fileAccess.exe
+C:\Users\102714329\OneDrive - Swinburne University\Programming\File Access Task\fileAccess\bin\Debug\net5.0\fileAccess.deps.json
+C:\Users\102714329\OneDrive - Swinburne University\Programming\File Access Task\fileAccess\bin\Debug\net5.0\fileAccess.runtimeconfig.json
+C:\Users\102714329\OneDrive - Swinburne University\Programming\File Access Task\fileAccess\bin\Debug\net5.0\fileAccess.runtimeconfig.dev.json
+C:\Users\102714329\OneDrive - Swinburne University\Programming\File Access Task\fileAccess\bin\Debug\net5.0\fileAccess.dll
+C:\Users\102714329\OneDrive - Swinburne University\Programming\File Access Task\fileAccess\bin\Debug\net5.0\ref\fileAccess.dll
+C:\Users\102714329\OneDrive - Swinburne University\Programming\File Access Task\fileAccess\bin\Debug\net5.0\fileAccess.pdb
+C:\Users\102714329\OneDrive - Swinburne University\Programming\File Access Task\fileAccess\obj\Debug\net5.0\fileAccess.dll
+C:\Users\102714329\OneDrive - Swinburne University\Programming\File Access Task\fileAccess\obj\Debug\net5.0\ref\fileAccess.dll
+C:\Users\102714329\OneDrive - Swinburne University\Programming\File Access Task\fileAccess\obj\Debug\net5.0\fileAccess.pdb
+C:\Users\102714329\OneDrive - Swinburne University\Programming\File Access Task\fileAccess\obj\Debug\net5.0\fileAccess.genruntimeconfig.cache
